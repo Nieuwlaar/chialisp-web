@@ -387,4 +387,4 @@ This marks the end of this section of the guide.
 In this section we have covered many of the basics of using CLVM.
 It is recommended you play with using the information presented here for a bit before moving on.
 
-This guide has not covered all of the operators available in CLVM - try using some of the other ones listed [here](/docs/ref/clvm)!
+This guide has not covered all of the operators available in CLVM - try using some of the other ones listed [here](/docs/clvm/lang_reference)!
