@@ -4,9 +4,10 @@ title: CLVM Basics
 ---
 
 CLVM is the compiled, minimal version of Chialisp that is used by the Chia network.
+
 Chialisp compiles into CLVM so it's important to understand how it works.
 The full set of operators is documented [here](/docs/clvm/lang_reference).
-
+The abbreviation CLVM stands for Contract Language Virtual Machine (generic version), or Chia Lisp Virtual Machine (trademarked version).
 This guide will cover the basics of the language and act as an introduction to the structure of programs.
 You should be able to follow along by running a version of [clvm_tools](https://github.com/Chia-Network/clvm_tools).
 Follow the instructions in the README to install it.
